@@ -5,7 +5,7 @@ block_cipher = None
 
 
 a = Analysis(['main.py'],
-             pathex=['C:\\Users\\12800\\PycharmProjects\\3D_Software_StepUp'],
+             pathex=[],
              binaries=[],
              datas=[],
              hiddenimports=[],
